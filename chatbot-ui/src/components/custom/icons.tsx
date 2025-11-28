@@ -855,3 +855,4 @@ export const CheckCirclFillIcon = ({ size = 16 }: { size?: number }) => {
     </svg>
   );
 };
+

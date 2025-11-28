@@ -29,3 +29,4 @@ volumes:
   opensearch-data:
     driver: local
 
+

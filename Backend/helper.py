@@ -56,3 +56,4 @@ def get_opensearch_client(
 
 if __name__ == "__main__":
     get_opensearch_client("localhost", 9200)
+

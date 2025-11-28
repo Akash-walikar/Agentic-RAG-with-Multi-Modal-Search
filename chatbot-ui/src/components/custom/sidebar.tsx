@@ -22,3 +22,4 @@ export function Sidebar({ onNewChat }: SidebarProps) {
     </div>
   );
 }
+
